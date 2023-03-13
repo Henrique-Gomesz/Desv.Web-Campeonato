@@ -27,7 +27,7 @@ function header() {
 
 
         "<div class='d-flex'>" +
-        "<button type='button' class='btn btn-danger'>Criar conta</button>" +
+        "<a href='cadastro.html'><button type='button' class='btn btn-danger'>Criar conta</button></a>" +
         "<button type='button' class='btn btn-danger'>Login</button>" +
         "</div>" +
 
