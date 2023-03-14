@@ -1,0 +1,68 @@
+.containerForm {
+    
+}
+
+form {
+  background-color: rgb(28, 40, 53);
+  width: 50vw;
+  padding: 2em;
+  border-radius: 15px;
+}
+
+.inputBox {
+  padding: 2px;
+}
+
+label {
+  color: white;
+}
+
+/* .box{
+    position: absolute; 
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(28, 40, 53);
+    padding: 15px;
+    border-radius: 15px;
+    width: 40%;
+    color: white;
+}
+
+legend{
+    text-align: center;
+}
+
+.inputbox{
+    position: relative;
+}
+
+.inputUser{
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+#data_nascimento{
+    border: none;
+    padding: 8px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 15px;
+}
+
+.enviar{
+    background-color: blue;
+    width: 20%;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    margin-left: 40%;
+} */
